@@ -1,4 +1,7 @@
 ## 서비스 소개
+ <a href="https://verbena-hoodie-3b9.notion.site/5e7f728fa9cd43fb8feb264c8df93ce4?pvs=25">팀 노션(개발중)</a>
+
+
 ## 💻 Developers
 <table>
     <tr align="center">
